@@ -1,0 +1,33 @@
+button{
+    color: white;
+    background-color: green;
+    width: 150px;
+    height: 60px;
+    font-size: large;
+    border-radius: 50px;
+    font-weight: bold;
+    
+}
+body {
+    background: linear-gradient(skyblue, lightgreen);
+    background-image: url(subory/sano.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:cover;
+    background-position: center;
+}
+#box1{
+    width: 760px;
+    height: 50px;
+    font-size: 22px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+#box2{
+
+    width: 150px;
+    font-size: 22px;
+    margin-left: auto;
+    margin-right: auto;
+}
